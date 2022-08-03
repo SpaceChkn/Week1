@@ -1,1 +1,1 @@
-GitConnect!
+gitConnect!
